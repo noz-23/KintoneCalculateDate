@@ -1,6 +1,6 @@
 # KintoneCalculateDate
 
-## Kintone ユーザー組織展開プラグイン
+## Kintone 計算フィールド日付フィールド関連付けプラグイン
 
 ## 1.概要
 
