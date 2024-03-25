@@ -28,12 +28,19 @@ MIT license
 
 JQuery   :https://jquery.com
 
+    https://js.cybozu.com/jquery/3.7.1/jquery.min.js
+          
+
 jsrender :https://www.jsviews.com
+
+    https://js.cybozu.com/jsrender/1.0.13/jsrender.min.js
 
 
 ## 6.バージョン履歴
 
  2024/03/12 0.1.0 初版 とりあえずバージョンの作成(GitHubの練習)
+
+ 2024/03/24 0.2.0 プラグイン設定画面に Google AdSense 追加
 
 ## 7.連絡
 
@@ -44,4 +51,9 @@ nzds23@yahoo.co.jp
 ライセンス条項を守って頂ければ特に制限ありません。
 
 可能なら記載したいので、メールアドレスに連絡頂ければ幸いです。
+
+プラグイン設定画面で Google AdSense の広告表示をしています。
+
+わかり易くしてますので、削除は自分でやって下さい。
+
 
