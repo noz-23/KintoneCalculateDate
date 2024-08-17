@@ -42,6 +42,8 @@ jsrender :https://www.jsviews.com
 
  2024/03/24 0.2.0 プラグイン設定画面に Google AdSense 追加
 
+ 2024/08/17 0.2.1 HTMLの表示変更(とJS変数名変更)
+
 ## 7.連絡
 
 nzds23@yahoo.co.jp
